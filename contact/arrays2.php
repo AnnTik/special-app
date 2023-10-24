@@ -20,6 +20,7 @@ $cities = [
     'germany' => [
         'Berlin',
         'Munchen',
+        'Leipzig'
     ],
 ];
 
